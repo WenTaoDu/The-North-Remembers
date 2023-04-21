@@ -1,4 +1,4 @@
-# Native应用鸿蒙化迁移指南
+# Openharmony Native Samples
 
 > An awesome project.
 
